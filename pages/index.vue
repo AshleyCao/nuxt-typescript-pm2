@@ -6,7 +6,7 @@
         nuxtTutorial
       </h1>
       <h2 class="subtitle">
-        Nuxt test
+        Nuxt TEST
       </h2>
       <div class="links">
         <nuxt-link
