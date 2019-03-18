@@ -11,7 +11,7 @@ export default {
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
   },
-  css: [{src:'~assets/global.scss', lang: 'scss'}],
+  css: [{src:'~assets/test.scss', lang: 'scss'}],
   plugins : [
     '~plugins/vuelidate.ts',
     '~plugins/element-ui.ts',
