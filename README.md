@@ -1,6 +1,6 @@
 # nuxtTutorial
 
-> Nuxt test
+>Nuxt.js with ts and pm2
 
 ## Build Setup
 
@@ -20,3 +20,6 @@ $ yarn run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyODg0NzI1NV19
+-->
