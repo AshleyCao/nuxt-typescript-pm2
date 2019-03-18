@@ -1,0 +1,17 @@
+{
+  "extends": "@nuxt/typescript",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "types": ["node", "@nuxt/vue-app"],
+    "noImplicitAny": false,
+    "skipLibCheck": true,
+    "experimentalDecorators": true,
+    "paths": {
+      "~/*": ["./*"],
+      "@/*": ["./*"]
+    },
+    "plugins": [{
+      "name": "ts-vue-plugin"
+    }]
+  }
+}
