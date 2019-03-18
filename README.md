@@ -1,4 +1,4 @@
-# nuxtTutorial
+# Nuxt
 
 >Nuxt.js with ts and pm2
 
@@ -21,5 +21,5 @@ $ yarn run generate
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODg0NzI1NV19
+eyJoaXN0b3J5IjpbOTg3NTAwNTU1XX0=
 -->
