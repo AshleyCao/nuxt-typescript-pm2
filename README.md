@@ -42,7 +42,3 @@ $ yarn run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDMyMDk3MSwtMjY3MTY0MTU0LDEyNz
-A0NF19
--->
