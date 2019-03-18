@@ -11,7 +11,8 @@ In this project, it includes all two common UI plugins([bootstrap-vue](https://b
 If those are all suitable for your project, just simply delete node_modules folder and run ``` yarn install ```.
 
 ## Some issues and heads-up
-- In 
+- Bootstrap
+I used to include bootstrap in modules in nuxt.config file. Now it seems there are some 
 ## Build Setup
 Please follow package.json, tsconfig.json and nuxt.config.ts files to check my set up.
 ``` bash
@@ -31,5 +32,5 @@ $ yarn run generate
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDQ0XX0=
+eyJoaXN0b3J5IjpbLTI2NzE2NDE1NCwxMjcwNDRdfQ==
 -->
