@@ -23,7 +23,7 @@ It only happened to me at first time when I added plugin via yarn on linux serve
 yarn config set proxy [http://username:password@host:port](http://username:password@host:port/)  
 yarn config set https-proxy [http://username:password@host:port](http://username:password@host:port/)
 ````
-Set notimeout 
+Set npm timeout didnot work for me
 ## Build Setup
 Please follow package.json, tsconfig.json and nuxt.config.ts files to check my set up.
 ``` bash
@@ -43,6 +43,6 @@ $ yarn run generate
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDk0Mjg1MDcsLTI2NzE2NDE1NCwxMj
-cwNDRdfQ==
+eyJoaXN0b3J5IjpbMTQ1NDMyMDk3MSwtMjY3MTY0MTU0LDEyNz
+A0NF19
 -->
