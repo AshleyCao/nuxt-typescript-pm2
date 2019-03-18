@@ -16,7 +16,7 @@ I used to include bootstrap in modules in nuxt.config file. Now it seems there a
 - $loding ( var override)
 [Ref](https://github.com/nuxt/nuxt.js/issues/4877), @P-de-jong's comment works for me. Turn off lib check in tsconfig
 - About linux
-It only happened to me when I used that linux
+It only happened to me when I used that linux server first time. Just in case it occurred to you too. 
 ## Build Setup
 Please follow package.json, tsconfig.json and nuxt.config.ts files to check my set up.
 ``` bash
@@ -36,6 +36,6 @@ $ yarn run generate
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzg5Njc2ODEsLTI2NzE2NDE1NCwxMj
+eyJoaXN0b3J5IjpbLTE2NTA0MTA3NzYsLTI2NzE2NDE1NCwxMj
 cwNDRdfQ==
 -->
