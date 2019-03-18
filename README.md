@@ -8,7 +8,10 @@ Nuxt.js 2.4.0 has released, checkout [this announcement](https://dev.to/nuxt/nux
 As for [PM2](https://pm2.io/doc/en/runtime/overview/), it is a project process manager for Node.js application. And I find it helps cutting off all setting-up bash files if you want to **run you app on linux server all the time**. 
 
 In this project, it includes all two common UI plugins([bootstrap-vue](https://bootstrap-vue.js.org/) and [element-ui](http://element.eleme.io/#/en-US/component/installation)), [js-cookies](https://github.com/js-cookie/js-cookie) and vuelidate etc.
-If those are all suitable for your project, just simply delete node_modules folder and run ``` bash
+If those are all suitable for your project, just simply delete node_modules folder and run ``` yarn install ```.
+
+## Some issues and heads-up
+- In 
 ## Build Setup
 Please follow package.json, tsconfig.json and nuxt.config.ts files to check my set up.
 ``` bash
@@ -28,5 +31,5 @@ $ yarn run generate
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDcwNTg3XX0=
+eyJoaXN0b3J5IjpbMTI3MDQ0XX0=
 -->
