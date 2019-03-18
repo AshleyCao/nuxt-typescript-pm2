@@ -12,7 +12,7 @@ If those are all suitable for your project, just simply delete node_modules fold
 
 ## Some issues and heads-up
 - Bootstrap
-I used to include bootstrap in modules in nuxt.config file. Now it seems there are some 
+I used to include bootstrap in modules in nuxt.config file. Now it seems there are some problems when it loads. So include bootstrap in plugins in nuxt.config. [Ref]()
 ## Build Setup
 Please follow package.json, tsconfig.json and nuxt.config.ts files to check my set up.
 ``` bash
@@ -32,5 +32,6 @@ $ yarn run generate
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NzE2NDE1NCwxMjcwNDRdfQ==
+eyJoaXN0b3J5IjpbOTY3Njc4ODk1LC0yNjcxNjQxNTQsMTI3MD
+Q0XX0=
 -->
